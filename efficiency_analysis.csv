@@ -1,0 +1,4 @@
+Model,Gate_Count,Accuracy
+"Adaptive_QCapsule [4, 3, 3, 4]",158,0.9889
+"Fixed_QCapsule_D2 [2, 2, 2, 2]",99,0.8778
+"Fixed_QCapsule_D4 [4, 4, 4, 4]",182,0.8778
